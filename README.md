@@ -9,5 +9,5 @@ This simple application is composed of HTML, CSS, and JavaScript files. The HTML
 
 
 ## Project URLs
-- Deployed Site:
+- Deployed Site: https://nguyensang0323.github.io/Password-Generator/
 - GitHub Repository: https://github.com/nguyensang0323/Password-Generator
